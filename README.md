@@ -1,6 +1,5 @@
 # B2C-project
-  b2c-tech-farming.vercel.app
-  
+
 # Overview
 B2C Tech Farming is a web application designed to bridge the gap between farmers, shopkeepers, and consumers by eliminating the role of middlemen.Farmers often sell their crops at extremely low prices to intermediaries, who then resell them at higher prices to shopkeepers. This project aims to create a direct marketplace where farmers can sell their produce at fair prices, ensuring better earnings and market transparency.
 
